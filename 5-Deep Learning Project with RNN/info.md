@@ -89,6 +89,6 @@ To overcome the disadvantage of sparse vectors, we use word embeddings like `wor
 
 ## References
 
-- [RNN Architecture Diagram](/5-Deep%20Learning%20Project%20with%20RNN/image/Screenshot%202025-11-18%20113859.png)  
+- [RNN Architeture Diagram](/image/Screenshot 2025-11-18 113859.png)  
 ```
 
