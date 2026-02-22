@@ -1,0 +1,43 @@
+# Core
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-classic
+langchain-chroma
+langchainhub
+langsmith
+
+# LLMs
+openai
+langchain_groq
+
+# Embeddings
+sentence_transformers
+langchain_huggingface
+
+# Vector store (choose ONE)
+faiss-cpu
+# chromadb
+# langchain_chroma
+
+# Document loaders
+pypdf
+bs4
+wikipedia
+arxiv
+beautifulsoup4
+unstructured[all-docs]
+pytesseract
+pillow
+opencv-python-headless
+
+# App & utils
+streamlit
+python-dotenv
+pandas
+ipykernel
+arxiv
+wikipedia
+ddgs
