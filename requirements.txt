@@ -41,3 +41,13 @@ ipykernel
 arxiv
 wikipedia
 ddgs
+ipykernel
+
+validators==0.28.1
+youtube-transcript-api
+pytube
+
+# pinecone
+pinecone-client
+# pinecone-text
+# pinecone-notebooks
