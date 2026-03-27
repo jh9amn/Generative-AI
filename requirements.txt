@@ -51,3 +51,11 @@ pytube
 pinecone-client
 # pinecone-text
 # pinecone-notebooks
+
+
+keras-nlp
+keras>=3
+keras-hub
+jax[cpu]
+tensorflow
+json
