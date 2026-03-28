@@ -58,4 +58,5 @@ keras>=3
 keras-hub
 jax[cpu]
 tensorflow
-json
+
+lamini
